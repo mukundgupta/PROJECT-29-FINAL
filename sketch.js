@@ -27,15 +27,15 @@ function setup() {
   box2 = new Box(490,630,100,120)
   box3 = new Box(550,630,100,120)
   box4 = new Box(590,630,100,120)
-  box5 = new Box(390,630,100,120)
+  box5 = new Box(395,630,100,120)
  fill(255,157,243)
  //stack1, level 2
   box6 = new Box(560,550,100,120)
-  box7 = new Box(500,550,100,120)
-  box8 = new Box(450,550,100,120)
+  box7 = new Box(510,550,100,120)
+  box8 = new Box(460,550,100,120)
   box9 = new Box(410,550,100,120)
   //stack1, level 3
-  box10 = new Box(436,460,100,120)
+  box10 = new Box(440,460,100,120)
   box11 = new Box(490,460,100,120)
   box12 = new Box(540,460,100,120)
   // stack1, top level
@@ -56,9 +56,9 @@ box20 = new Box(1015,300,100,120)
 box21= new Box(915,300,100,120)
 box22 = new Box(1065,300,100,120)
 //stack 2, level 3
-box23 = new Box(1060,240,100,120)
-box24 = new Box(1005,240,100,120)
-box25 = new Box(960,240,100,120)
+box23 = new Box(1045,240,100,120)
+box24 = new Box(995,240,100,120)
+box25 = new Box(945,240,100,120)
 //stack 2, top level
 box26 = new Box(1000,100,100,120)
 
